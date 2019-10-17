@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "5da6b265f30b3c2140e9bfba",
+        "complementName": "Pol",
+        "sex": "Masculino",
+        "dateBirth": "2019-10-16T06:02:13.609+0000",
+        "typeidentify": "DNI",
+        "numberidentify": 123
+    },
+    {
+        "_id": "5da6b44cf30b3c2140e9bfbf",
+        "complementName": "Luisa",
+        "sex": "Femenino",
+        "dateBirth": "2019-10-16T06:10:20.875+0000",
+        "typeidentify": "DNI",
+        "numberidentify": 24242
+    },
+    {
+        "_id": "5da6b884f30b3c2140e9bfcc",
+        "complementName": "eeeeee",
+        "sex": "Masculino",
+        "dateBirth": "2019-10-16T06:28:20.419+0000",
+        "typeidentify": "DNI",
+        "numberidentify": 123988
+    }
+]
